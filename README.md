@@ -1,1 +1,3 @@
 # Pymaceuticals-challenge
+
+When working through this Module, I utilized the assistance of the AskBCS Learning Assistant chat to break down and understand a few prompts which were difficult for me to understand. Along with the AskBCS Learning Assistant chat, I was encouraged to utilize ChatGPT to troubleshoot a couple lines of code which gave me great difficulty in backtracking and debugging. Despite these two resources, I was not able to complete the entire module and focused on sections that I knew I could complete on time. Unfortunately, i am still having trouble calculating quartiles and linear regressions so I could not complete them by the time the assignment is due. 
